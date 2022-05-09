@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = junior.pereira.jp@gmail.com
+	name = Junior Pereira
